@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{0FCB48C2-53B3-441F-ACDA-711B56B932A4}">
+	<children>
+		<child name="UpleadInfos" key="{9767362E-4CF2-4E66-9E41-C96BFEC57933}" path="UpleadInfos\UpleadInfos.mds" />
+	</children>
+	<testItems key="{43BCC3F9-67C0-4C99-93DE-6BAC2630A735}">
+		<children>
+			<testItem key="{9767362E-4CF2-4E66-9E41-C96BFEC57933}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{C7F8865F-BCCB-41D9-ABFC-2CA4B70AF093}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{A8906302-C09B-460F-B0D0-BAD4240E15B3}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>

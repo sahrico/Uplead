@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{25EA4FBD-C779-4D75-9525-3F90CBA70F26}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{206B0810-0B42-45AB-90F5-9F8DF0D669D2}">
+				<Data Description="Runs a script routine." TestName="upleadCompanyInfos" Unit="Uplead_Company_Infos" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{0C8BA8EE-2201-4994-BF75-97008D5FC485}" />
+	<Parameters Key="{6ADF6A7D-11E1-47CC-BDEF-FC694128BF23}">
+		<Parameter0 Name="databank" VarType="8" IsOptional="False" DefValueType="6" DefValueValue="..\Databanks\CompanyEmails.csv" Description="" />
+	</Parameters>
+</Root>

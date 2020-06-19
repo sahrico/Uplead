@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Library" key="{4666BE2C-D40A-40D0-ABB6-485E9A60C3AD}" path="Library.js" />
+		<child name="Uplead_Company_Infos" key="{B6D99F6C-3691-419D-A650-DC84874EB2E9}" path="Uplead_Company_Infos.js" />
+	</children>
+</Root>
